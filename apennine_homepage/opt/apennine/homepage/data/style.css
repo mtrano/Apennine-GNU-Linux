@@ -5,8 +5,7 @@ body {
 	font-size: 14px;
 	font-weight: bold;
 	color: #c5c5c5;
-	/*background: url("sparky17.png") center no-repeat;*/
-	background: #fbfbfb center no-repeat;
+	background: #fbfbfb;
 }
 div.scrollmenu {
 	background-color: #444;
