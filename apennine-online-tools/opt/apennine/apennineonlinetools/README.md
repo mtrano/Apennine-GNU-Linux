@@ -1,4 +1,4 @@
-Apennine GNU/Linux 12 selected online software launcher
+Apennine GNU/Linux 12 Online software launcher
 
 Copyright (C) 2023 Michele Trancossi, Enexergy LTD, EPMI srl and others, see copyright file.
 
