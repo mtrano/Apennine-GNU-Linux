@@ -1,6 +1,6 @@
 Apennine GNU/Linux 12 'Val Taro' Plus Artworks
 
-The included images have been adapted from the ones by anonymous artists downloaded from www.wallpapercave.com by Apennine Gnu/Linux Team.
+The included images have been adapted from the ones by Fabio Marchini and downloaded from https://www.fabiomarchini.it/ by Apennine Gnu/Linux Team.
 
 Copyright (C) 2023 Michele Trancossi, Enexergy LTD, EPMI srl and others, see copyright file.
 
