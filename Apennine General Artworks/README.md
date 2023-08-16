@@ -1,8 +1,8 @@
-Apennine GNU/Linux Repository
+Apennine GNU/Linux General Artworks
 
-Apennine GNU/Linux is GNU/Linux distribution derived from Debian stable release. Versions are numbered with the same number of the actual Debian Stable version and are compatible with both MX Linux and Sparky Linux stable releases.
+The included images have been created by Apennine/Gnu Linux Team
 
-Copyright (C) 2023 Paweł Pijanowski and others, see copyright file.
+Copyright (C) 2023 Michele Trancossi, Enexergy LTD, EPMI srl and others, see copyright file.
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
